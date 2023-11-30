@@ -1,3 +1,5 @@
+# Prueba
+
 #Invocamos las funciones del archivo funciones
 from Funciones import Capital,Pasivo,Activo,Velocidad,Tiempo,Distancia
 #Definiciones de las funciones del menú (Contaduría,Física y más)
